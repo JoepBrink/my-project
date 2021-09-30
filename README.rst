@@ -1,1 +1,1 @@
-This is my project about the elliptical orbits of the planets in our solar system. The data is taken from Wikipedia. The project is part of an interdisciplinary project with mathematics and physics.
+This is my project about the elliptical orbits of the planets in our solar system. The data is taken from Wikipedia. The project is part of an interdisciplinary project with mathematics and physics. It relies on the mathematics behind the ellipse, including the ellipse's center and the fact that the sun is in one of the focus points.
